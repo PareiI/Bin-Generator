@@ -8,9 +8,8 @@ Pour installer les modules requis executez le code suivant dans le cmd et dans l
 
 # ✔️Fonctionalités
 * Ce programme peut générer des bins VISA,Mastercard,American Express Discover.
-* Gives details of the generated Credit Card Bins.
-* Save all the generated bins.
-
+* Donner tout les détaile du bin généré.
+* Sauvegarder tout les bins générés précédemment
 # ⚠️ Disclaimer
 Ce programme a été crée pour des raisons éducatives. Je ne suis pas résponsable de vos actes.
 

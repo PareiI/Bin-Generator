@@ -1,0 +1,36 @@
+Bin      :  505761
+Scheme   :  MAESTRO
+Country  :  UNKNOWN
+Type     :  DEBIT
+Category :  
+Bank     :  UNKNOWN
+________________________
+Bin      :  511175
+Scheme   :  MASTERCARD
+Country  :  UNITED STATES
+Type     :  DEBIT
+Category :  STANDARD
+Bank     :  JACK HENRY AND ASSOCIATES
+________________________
+Bin      :  538623
+Scheme   :  MASTERCARD
+Country  :  UNITED STATES
+Type     :  DEBIT
+Category :  
+Bank     :  UNKNOWN
+________________________
+Bin      :  555762
+Scheme   :  MASTERCARD
+Country  :  UNITED STATES
+Type     :  CREDIT
+Category :  
+Bank     :  UNKNOWN
+________________________
+Bin      :  551388
+Scheme   :  MASTERCARD
+Country  :  UNITED STATES
+Type     :  DEBIT
+Category :  STANDARD
+Bank     :  FISERV SOLUTIONS, INC.
+________________________
+
